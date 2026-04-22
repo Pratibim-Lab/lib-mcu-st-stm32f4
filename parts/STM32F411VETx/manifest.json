@@ -1,0 +1,11 @@
+{
+      "id": "MCU_ST_STM32F4/STM32F411VETx:STM32F411VETx",
+      "name": "STM32F411VETx",
+      "library": "MCU_ST_STM32F4",
+      "file": "MCU_ST_STM32F4.kicad_symdir/STM32F411VETx.kicad_sym",
+      "description": "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 128KB RAM, 100 MHz, 1.7-3.6V, 81 GPIO, LQFP100",
+      "datasheet": "https://www.st.com/resource/en/datasheet/stm32f411ve.pdf",
+      "keywords": "Arm Cortex-M4 STM32F4 STM32F411",
+      "footprint": "Package_QFP:LQFP-100_14x14mm_P0.5mm",
+      "extends": "STM32F411V_C-E_Tx"
+    }
