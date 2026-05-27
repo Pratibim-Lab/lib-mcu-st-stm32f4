@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F407IGHx:STM32F407IGHx",
+  "name": "STM32F407IGHx",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F407IGHx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 192KB RAM, 168 MHz, 1.8-3.6V, 140 GPIO, UFBGA176",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f407ig.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F407/417",
+  "footprint": "Package_BGA:UFBGA-201_10x10mm_Layout15x15_P0.65mm",
+  "extends": "STM32F407I_E-G_Hx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F407IGHx/",
+  "part_path": "parts/STM32F407IGHx",
+  "symbol_file": "parts/STM32F407IGHx/STM32F407IGHx.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:28.877Z"
+}

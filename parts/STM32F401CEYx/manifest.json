@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F401CEYx:STM32F401CEYx",
+  "name": "STM32F401CEYx",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F401CEYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 96KB RAM, 84 MHz, 1.7-3.6V, 36 GPIO, WLCSP49",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f401ce.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F401",
+  "footprint": "Package_CSP:ST_WLCSP-49_Die433",
+  "extends": "STM32F401C_D-E_Yx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F401CEYx/",
+  "part_path": "parts/STM32F401CEYx",
+  "symbol_file": "parts/STM32F401CEYx/STM32F401CEYx.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:28.752Z"
+}

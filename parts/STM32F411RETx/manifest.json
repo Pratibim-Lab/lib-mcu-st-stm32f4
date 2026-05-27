@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F411RETx:STM32F411RETx",
+  "name": "STM32F411RETx",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F411RETx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 128KB RAM, 100 MHz, 1.7-3.6V, 50 GPIO, LQFP64",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f411re.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F411",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "STM32F411R_C-E_Tx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F411RETx/",
+  "part_path": "parts/STM32F411RETx",
+  "symbol_file": "parts/STM32F411RETx/STM32F411RETx.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:29.008Z"
+}

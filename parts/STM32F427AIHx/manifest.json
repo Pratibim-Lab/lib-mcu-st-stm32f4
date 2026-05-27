@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F427AIHx:STM32F427AIHx",
+  "name": "STM32F427AIHx",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F427AIHx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 2048KB flash, 256KB RAM, 180 MHz, 1.7-3.6V, 130 GPIO, UFBGA169",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f427ai.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F427/437",
+  "footprint": "Package_BGA:UFBGA-169_7x7mm_Layout13x13_P0.5mm",
+  "extends": "STM32F427A_G-I_Hx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F427AIHx/",
+  "part_path": "parts/STM32F427AIHx",
+  "symbol_file": "parts/STM32F427AIHx/STM32F427AIHx.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:29.342Z"
+}

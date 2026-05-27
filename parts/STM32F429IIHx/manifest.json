@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F429IIHx:STM32F429IIHx",
+  "name": "STM32F429IIHx",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F429IIHx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 2048KB flash, 256KB RAM, 180 MHz, 1.8-3.6V, 140 GPIO, UFBGA176",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f429ii.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F429/439",
+  "footprint": "Package_BGA:UFBGA-201_10x10mm_Layout15x15_P0.65mm",
+  "extends": "STM32F429I_E-G-I_Hx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F429IIHx/",
+  "part_path": "parts/STM32F429IIHx",
+  "symbol_file": "parts/STM32F429IIHx/STM32F429IIHx.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:29.409Z"
+}

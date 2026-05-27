@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F413MHYx:STM32F413MHYx",
+  "name": "STM32F413MHYx",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F413MHYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 1536KB flash, 320KB RAM, 100 MHz, 1.7-3.6V, 60 GPIO, WLCSP81",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f413mh.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F413/423",
+  "footprint": "Package_CSP:ST_WLCSP-81_Die463",
+  "extends": "STM32F413M_G-H_Yx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F413MHYx/",
+  "part_path": "parts/STM32F413MHYx",
+  "symbol_file": "parts/STM32F413MHYx/STM32F413MHYx.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:29.183Z"
+}

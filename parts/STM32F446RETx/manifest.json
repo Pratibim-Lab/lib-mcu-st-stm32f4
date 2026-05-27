@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F446RETx:STM32F446RETx",
+  "name": "STM32F446RETx",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F446RETx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 128KB RAM, 180 MHz, 1.8-3.6V, 50 GPIO, LQFP64",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f446re.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F446",
+  "footprint": "Package_QFP:LQFP-64_10x10mm_P0.5mm",
+  "extends": "STM32F446R_C-E_Tx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F446RETx/",
+  "part_path": "parts/STM32F446RETx",
+  "symbol_file": "parts/STM32F446RETx/STM32F446RETx.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:29.573Z"
+}

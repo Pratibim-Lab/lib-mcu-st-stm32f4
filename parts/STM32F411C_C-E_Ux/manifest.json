@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F411C_C-E_Ux:STM32F411C_C-E_Ux",
+  "name": "STM32F411C_C-E_Ux",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F411C_C-E_Ux.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 256-512KB flash, 128KB RAM, 100 MHz, 1.7-3.6V, 36 GPIO, UFQFPN48",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f411cc.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F411",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F411C_C-E_Ux/",
+  "part_path": "parts/STM32F411C_C-E_Ux",
+  "symbol_file": "parts/STM32F411C_C-E_Ux/STM32F411C_C-E_Ux.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:28.984Z"
+}

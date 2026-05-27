@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F407VETx:STM32F407VETx",
+  "name": "STM32F407VETx",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F407VETx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 192KB RAM, 168 MHz, 1.8-3.6V, 82 GPIO, LQFP100",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f407ve.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F407/417",
+  "footprint": "Package_QFP:LQFP-100_14x14mm_P0.5mm",
+  "extends": "STM32F407V_E-G_Tx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F407VETx/",
+  "part_path": "parts/STM32F407VETx",
+  "symbol_file": "parts/STM32F407VETx/STM32F407VETx.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:28.892Z"
+}

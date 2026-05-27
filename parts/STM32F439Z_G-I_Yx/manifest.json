@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F439Z_G-I_Yx:STM32F439Z_G-I_Yx",
+  "name": "STM32F439Z_G-I_Yx",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F439Z_G-I_Yx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 1024-2048KB flash, 256KB RAM, 180 MHz, 1.7-3.6V, 114 GPIO, WLCSP143",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f439zg.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F429/439",
+  "footprint": "Package_CSP:ST_WLCSP-143_Die419",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F439Z_G-I_Yx/",
+  "part_path": "parts/STM32F439Z_G-I_Yx",
+  "symbol_file": "parts/STM32F439Z_G-I_Yx/STM32F439Z_G-I_Yx.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:29.542Z"
+}

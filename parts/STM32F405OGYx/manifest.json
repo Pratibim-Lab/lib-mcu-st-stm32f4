@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F405OGYx:STM32F405OGYx",
+  "name": "STM32F405OGYx",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F405OGYx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 192KB RAM, 168 MHz, 1.8-3.6V, 72 GPIO, WLCSP90",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f405og.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F405/415",
+  "footprint": "Package_CSP:ST_WLCSP-90_Die413",
+  "extends": "STM32F405O_E-G_Yx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F405OGYx/",
+  "part_path": "parts/STM32F405OGYx",
+  "symbol_file": "parts/STM32F405OGYx/STM32F405OGYx.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:28.840Z"
+}

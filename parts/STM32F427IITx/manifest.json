@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32F4/STM32F427IITx:STM32F427IITx",
+  "name": "STM32F427IITx",
+  "library": "MCU_ST_STM32F4",
+  "file": "MCU_ST_STM32F4.kicad_symdir/STM32F427IITx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M4 MCU, 2048KB flash, 256KB RAM, 180 MHz, 1.7-3.6V, 140 GPIO, LQFP176",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32f427ii.pdf",
+  "keywords": "Arm Cortex-M4 STM32F4 STM32F427/437",
+  "footprint": "Package_QFP:LQFP-176_24x24mm_P0.5mm",
+  "extends": "STM32F427I_G-I_Tx",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32f4@master/parts/STM32F427IITx/",
+  "part_path": "parts/STM32F427IITx",
+  "symbol_file": "parts/STM32F427IITx/STM32F427IITx.kicad_sym",
+  "source_library": "MCU_ST_STM32F4.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:08:29.356Z"
+}
